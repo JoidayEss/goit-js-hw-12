@@ -105,6 +105,6 @@ function smoothScroll() {
         top: cardHeight * 4,
         behavior: 'smooth',
       });
-    }, 200);
+    }, 500);
   }
 }
